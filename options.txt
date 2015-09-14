@@ -1,0 +1,5 @@
+WYGORB
+true
+true
+50
+Black
