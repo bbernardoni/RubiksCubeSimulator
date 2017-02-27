@@ -3,9 +3,9 @@ import java.awt.*;
 public abstract class Core {
 	
     private static DisplayMode modes[] = {
-    	new DisplayMode(1366, 768, 32, 0),
-        new DisplayMode(1366, 768, 24, 0),
-        new DisplayMode(1366, 768, 16, 0),
+    	new DisplayMode(1920, 1080, 32, 0),
+        new DisplayMode(1920, 1080, 24, 0),
+        new DisplayMode(1920, 1080, 16, 0),
     	new DisplayMode(1280, 800, 32, 0),
         new DisplayMode(1280, 800, 24, 0),
         new DisplayMode(1280, 800, 16, 0),
